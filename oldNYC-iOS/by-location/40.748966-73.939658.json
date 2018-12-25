@@ -1,0 +1,50 @@
+{
+  "725170f-a": {
+    "width": 403, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/725170f-a.jpg", 
+    "title": "", 
+    "date": "1932", 
+    "text": "28th Street, north from 42nd Road to Bridge Plaza, showing the 'El' and the clock-tower Brewster Building.\nP. L. Sperr  March 23, 1932\n", 
+    "folder": "28th Street & 42nd Road, Queens, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/725170f-a.jpg", 
+    "original_title": "Queens: 28th Street - 42nd Road", 
+    "height": 600
+  }, 
+  "726921f-a": {
+    "width": 600, 
+    "image_url": "http://www.oldnyc.org/rotated-assets/600px/726921f-a.90.jpg", 
+    "title": "", 
+    "date": "1932", 
+    "text": {
+      "timestamp": 1457885881643, 
+      "datetime": "2016-03-13T12:18:01", 
+      "user_ip": "173.77.205.222", 
+      "cookie": "54a2c38e-2dee-433f-90b9-db0741e571c1", 
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36", 
+      "location": "US-New York-Brooklyn"
+    }, 
+    "folder": "Hunter Street & 28th Street, Queens, NY", 
+    "thumb_url": "http://www.oldnyc.org/rotated-assets/thumb/726921f-a.90.jpg", 
+    "original_title": "Queens: Hunter Street - 28th Street", 
+    "rotation": 90, 
+    "height": 400
+  }, 
+  "726921f-b": {
+    "width": 401, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/726921f-b.jpg", 
+    "title": "", 
+    "date": "1932", 
+    "text": {
+      "timestamp": 1457885881643, 
+      "datetime": "2016-03-13T12:18:01", 
+      "user_ip": "173.77.205.222", 
+      "cookie": "54a2c38e-2dee-433f-90b9-db0741e571c1", 
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36", 
+      "location": "US-New York-Brooklyn"
+    }, 
+    "folder": "Hunter Street & 28th Street, Queens, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/726921f-b.jpg", 
+    "original_title": "Queens: Hunter Street - 28th Street", 
+    "height": 600
+  }
+}

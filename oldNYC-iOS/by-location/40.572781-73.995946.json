@@ -1,0 +1,38 @@
+{
+  "707003f-b": {
+    "width": 600, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/707003f-b.jpg", 
+    "title": "", 
+    "date": "1924", 
+    "text": {
+      "timestamp": 1460323661594, 
+      "datetime": "2016-04-10T17:27:41", 
+      "user_ip": "", 
+      "cookie": "27e16465-cc6b-4979-978f-1fa667220057", 
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36", 
+      "location": ""
+    }, 
+    "folder": "Surf Ave. & 30th St. W., Brooklyn, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/707003f-b.jpg", 
+    "original_title": "Brooklyn: Surf Ave. - 30th St. W.", 
+    "height": 473
+  }, 
+  "707003f-a": {
+    "width": 600, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/707003f-a.jpg", 
+    "title": "", 
+    "date": "1924", 
+    "text": {
+      "timestamp": 1460323661594, 
+      "datetime": "2016-04-10T17:27:41", 
+      "user_ip": "", 
+      "cookie": "27e16465-cc6b-4979-978f-1fa667220057", 
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36", 
+      "location": ""
+    }, 
+    "folder": "Surf Ave. & 30th St. W., Brooklyn, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/707003f-a.jpg", 
+    "original_title": "Brooklyn: Surf Ave. - 30th St. W.", 
+    "height": 468
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "729922f-a": {
+    "width": 600, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/729922f-a.jpg", 
+    "title": "", 
+    "date": "1926", 
+    "text": {
+      "timestamp": 1457821878537, 
+      "datetime": "2016-03-12T17:31:18", 
+      "user_ip": "173.77.205.222", 
+      "cookie": "54a2c38e-2dee-433f-90b9-db0741e571c1", 
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36", 
+      "location": "US-New York-Brooklyn"
+    }, 
+    "folder": "Willowbrook Road & Watchogue Road, Staten Island, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/729922f-a.jpg", 
+    "original_title": "Richmond: Willowbrook Road - Watchogue Road", 
+    "height": 402
+  }, 
+  "729887f-a": {
+    "width": 600, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/729887f-a.jpg", 
+    "title": "", 
+    "date": "", 
+    "text": {
+      "timestamp": 1457821917946, 
+      "datetime": "2016-03-12T17:31:57", 
+      "user_ip": "173.77.205.222", 
+      "cookie": "54a2c38e-2dee-433f-90b9-db0741e571c1", 
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36", 
+      "location": "US-New York-Brooklyn"
+    }, 
+    "folder": "Watchogue Road & Willowbrook Road, Staten Island, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/729887f-a.jpg", 
+    "original_title": "Richmond: Watchogue Road - Willowbrook Road", 
+    "height": 430
+  }, 
+  "729888f-a": {
+    "width": 600, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/729888f-a.jpg", 
+    "title": "", 
+    "date": "", 
+    "text": {
+      "timestamp": 1457821936543, 
+      "datetime": "2016-03-12T17:32:16", 
+      "user_ip": "173.77.205.222", 
+      "cookie": "54a2c38e-2dee-433f-90b9-db0741e571c1", 
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36", 
+      "location": "US-New York-Brooklyn"
+    }, 
+    "folder": "Watchogue Road & Willowbrook Road, Staten Island, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/729888f-a.jpg", 
+    "original_title": "Richmond: Watchogue Road - Willowbrook Road", 
+    "height": 401
+  }
+}

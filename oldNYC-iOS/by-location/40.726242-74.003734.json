@@ -1,0 +1,38 @@
+{
+  "723696f-a": {
+    "width": 424, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/723696f-a.jpg", 
+    "title": "", 
+    "date": "1938", 
+    "text": {
+      "timestamp": 1458178188176, 
+      "datetime": "2016-03-16T21:29:48", 
+      "user_ip": "69.121.150.110", 
+      "cookie": "2a862ffb-e461-4c05-91ba-483eb7f5f39e", 
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36", 
+      "location": "US-New Jersey-Mount Arlington"
+    }, 
+    "folder": "Vandam Street & 6th Avenue, Manhattan, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/723696f-a.jpg", 
+    "original_title": "Manhattan: Vandam Street - 6th Avenue", 
+    "height": 600
+  }, 
+  "723696f-b": {
+    "width": 422, 
+    "image_url": "http://oldnyc-assets.nypl.org/600px/723696f-b.jpg", 
+    "title": "", 
+    "date": "1938", 
+    "text": {
+      "timestamp": 1458178188176, 
+      "datetime": "2016-03-16T21:29:48", 
+      "user_ip": "69.121.150.110", 
+      "cookie": "2a862ffb-e461-4c05-91ba-483eb7f5f39e", 
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36", 
+      "location": "US-New Jersey-Mount Arlington"
+    }, 
+    "folder": "Vandam Street & 6th Avenue, Manhattan, NY", 
+    "thumb_url": "http://oldnyc-assets.nypl.org/thumb/723696f-b.jpg", 
+    "original_title": "Manhattan: Vandam Street - 6th Avenue", 
+    "height": 600
+  }
+}
